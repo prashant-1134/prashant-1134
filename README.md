@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Pachore</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant-1134&label=Profile%20views&color=0e75b6&style=flat" alt="prashant-1134" /> </p>
 
